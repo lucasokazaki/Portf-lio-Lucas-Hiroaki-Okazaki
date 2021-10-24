@@ -85,29 +85,25 @@ Extraindo os dados do banco de dados para a criação de um novo arquivo `shapef
 
 ### Contribuições Pessoais
 Durante o desenvolvimento do projeto atuei fortemente na ferramenta ETL, trabalhando as seguintes funcionalidades:
-- Extração e transformação dos dados de arquivos `shapefile`;
-- Configuração do ambiente e integração banco de dados;
-- Ingestão e extração dos dados geoespaciais contidos banco de dados da aplicação;
-- Geração de arquivos `shapefile` a partir da extração dos dados geoespaciais contidos banco;
-- Plotagem das formas geométricas (ponto, linha e polígono) dos dados geoespaciais; e
-- Desenvolvimento do servidor web utilizando o microframework `flask`.
+- Planejamento e desing do front-end;
+- Desenvolvimento das ferramenas da aplicação;
+- Desenvolvimento do desing da aplicação;
+- Exibição dos arquivos graficos da aplicação;
+- Teste de funcionalidade
 
 ### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
-- Análise de dados geoespaciais de arquivos `shapefile` utilizando python3 em conjunto biblioteca Geopandas:
+- Desenvolvimento das páginas da aplicação com html:
     - Sei fazer com autonomia;
-- Geração de formas geométricas(ponto, linha e polígono) utilizando python3 e a biblioteca matplotlib:
+- Desing da aplicação com CSS:
     - Sei fazer com autonomia.
-- Desenvolvimento do seridor web com `flask`:
-    - Sei fazer com autonomia.
-- Ingestão e extração de dados de bancos de dados relacionais:
+- Funcionalidades front-end com Electron:
     - Sei fazer com autonomia.
 
+
 ### Soft Skills
-Durante este projeto tive a oportunidade de ser o Scrum Master da minha equipe, podendo exercitar varias habilidades interpessoais, como:
-- Solução de problemas complexos;
-- Organização;
+No projeto tive a função de Project owner mantendo assim o contato com a empresa:
+- Comunicação;
+- Adaptabilidade;
 - Empatia;
 - Comunicação e escuta ativa;
-- liderança;
-- Flexibilidade e adaptabilidade.
