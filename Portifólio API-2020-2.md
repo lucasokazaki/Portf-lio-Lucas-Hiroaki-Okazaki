@@ -1,15 +1,14 @@
 # Aprendizagem por Projetos Integrados 2020-2
 ![Logo](https://user-images.githubusercontent.com/56441534/138449995-c249e266-cdb5-4cdb-a018-45b64c0ae2c3.png)
 
-O desenvolvimento do projeto foi em torno da necessidade da empresa parceira em ter uma ferramenta web que funcionasse como um mini-ETL, tendo como principais operações:
-- Extrair dados de um arquivo `shapefile` e envia-los ao banco de dados; e
-- Realizar o processo inverso convertendo os dados ingeridos no banco de dados em um novo arquivo `shapefile`.
+A proposta do projeto foi o desenvolvimento do um  mini-ETL que fosse capaz de extrair e armazenar os arquivos do tipo shapefile assim como fazer o trabalho inverso.
 
 ### Parceiro Acadêmico
-Visiona Tecnologia Espacial: Uma empresa brasileira integradora de sistemas espaciais.
-Conheça mais em [visionaespacial.com.br](https://www.visionaespacial.com.br/).
+Visiona Tecnologia Espacial.
+[Entre no site.](https://www.visionaespacial.com.br/)
 
-<img src="https://user-images.githubusercontent.com/56441534/138451551-477b7c4e-12fc-48ab-bf1b-e0e7b70e1da4.png" width="400"/>
+![image](https://user-images.githubusercontent.com/56441428/138607718-7ec64ecd-adbc-4dee-8a2b-dc1bb70248d1.png)
+
 
 ***
 
