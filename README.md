@@ -1,4 +1,4 @@
-# Coloque seu nome aqui
+# Lucas Hiroaki Okazaki
 
 ## Introdução
 
