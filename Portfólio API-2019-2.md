@@ -8,7 +8,10 @@ Por ser o primeiro API, cliente foi a FATEC São José dos Campos - Prof. Jessen
 
 
 ### Visão do Projeto (Equipe)
-Sistema RFID com permissoes emitidas por um app, simulando uma tranca que pode ser aplicada em portas, armarios, etc.
+
+Visando a seguração de edificios comerciais que necessitam de uma restição com relação ao acesso de pessoas foi desenvolvido um sistema de controle de locais de acesso restrito. o projeto consiste em uma tranca que é intalada na porta e que para que o acesso seja permitido é necessario um cartã RFID e a liberação do sistema por meio de um terceiro.
+
+![image](https://user-images.githubusercontent.com/56441428/138706165-26c99ded-4bf3-4639-b420-9f86d29abeb4.png)
 
 #### link do git
 https://github.com/DaviNeves0/SmartTAG
