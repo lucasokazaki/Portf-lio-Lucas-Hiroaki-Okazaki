@@ -27,7 +27,7 @@ Desenvolvimento mobile no MIT app inventor, montagem eletronica do simulacro de 
 
 ### Aprendizados Efetivos HS (Individual)
 
-Desenvolvimento em app inventor: Sei fazer com autonomia 
-Desenvolvimento em C++: Sei fazer com auxilio
-Desenvolvimento de hardware: Sei fazer com autonomia 
+- Desenvolvimento em app inventor: Sei fazer com autonomia 
+- Desenvolvimento em C++: Sei fazer com auxilio
+- Desenvolvimento de hardware: Sei fazer com autonomia 
 
