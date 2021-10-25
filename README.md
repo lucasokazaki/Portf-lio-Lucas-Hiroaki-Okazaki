@@ -26,5 +26,5 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 
 ## Contatos
 * [GIT](https://github.com/lucasokazaki)
-* [Email](l.h.okazaki@gmail.com)
+* Email : l.h.okazaki@gmail.com
 
