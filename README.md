@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Recomenda-se a inclusão de uma foto.
+Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico e eltroeletronica e atualmente estou cursando analise e desenvolvimento de sistemas na [FATEC](https://fatecsjc-prd.azurewebsites.net).
 
 ## Meus Projetos
 
