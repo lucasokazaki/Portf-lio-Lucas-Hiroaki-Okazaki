@@ -25,6 +25,6 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT](https://github.com/lucasokazaki)
+* [Email](l.h.okazaki@gmail.com)
 
