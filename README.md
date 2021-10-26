@@ -2,7 +2,9 @@
 
 ## Introdução
 
-Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico e eltroeletronica e atualmente estou cursando analise e desenvolvimento de sistemas na [FATEC](https://fatecsjc-prd.azurewebsites.net).
+Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico e eltroeletronica e atualmente estou cursando analise e desenvolvimento de sistemas na [FATEC](https://fatecsjc-prd.azurewebsites.net), atualmente atuo em projetos academicos atuando como desenvolvedor Fron-end porém mantenho estudos nas areas de machine learning e segurança da informação assim como artificios de front-end como HTML, CSS, typescript, Reactjs, nodejs, etc.
+
+
 
 ## Meus Projetos
 
@@ -22,15 +24,17 @@ Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico 
 [API 2021-2](https://github.com/lucasokazaki/Portf-lio-Lucas-Hiroaki-Okazaki/blob/main/Portf%C3%B3lio%20API-2021-2.md)
 
 ## Meus Principais Conhecimentos
-- python - Tratamento de dados, machine learni.
-- SQL - Criação e manipulação de tabelas.
-- MongoDB - Criação e manipulação de tabelas.
-- HTML
-- CSS
-- Nodejs
-- Reactjs
-- Javascript 
-- Typescript
+- python - Tratamento de dados, machine learning. - sei fazer com autonomia
+- SQL - Criação e manipulação de tabelas. - sei fazer com auxilio
+- MongoDB - Criação e manipulação de tabelas. - sei fazer com auxilio
+- HTML - sei fazer com autonomia 
+- CSS - sei fazer com autonomia 
+- Nodejs - sei fazer co autonomia
+- Reactjs - sei fazer com autonomia
+- Javascript - sei fazer com auxilio
+- Typescript - sei fazer com auxilio
+- circleCI - sei fazer com auxilio
+- jenkins - sei fazer com auxilio
 
 ## Contatos
 * [GIT](https://github.com/lucasokazaki)
