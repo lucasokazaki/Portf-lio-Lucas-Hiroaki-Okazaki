@@ -26,6 +26,9 @@ Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico 
 ### Em 2021-2
 [API 2021-2](https://github.com/lucasokazaki/Portf-lio-Lucas-Hiroaki-Okazaki/blob/main/Portf%C3%B3lio%20API-2021-2.md) - Projeto acadêmico em conjunto com a GSW, a proposta do projeto foi criar um sistema para venda de carros.
 
+### Em 2022-1
+[API 2022-1](https://github.com/lucasokazaki/Portf-lio-Lucas-Hiroaki-Okazaki/blob/main/Portf%C3%B3lio%20API-2022-1.md) - Projeto acadêmico em conjunto com a UOL, a proposta do projeto foi criar um sistema que possa prever uma possivel indisponibilidade do sistem e emitir um alerta caso seja plotado.
+
 ## Meus Principais Conhecimentos
 - python - Limpeza e normalização de dados, machine learning. - sei fazer com autonomia
 - SQL - Criação e manipulação de tabelas. - sei fazer com auxilio
