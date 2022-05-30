@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico e eltroeletronica e atualmente estou cursando analise e desenvolvimento de sistemas na [FATEC](https://fatecsjc-prd.azurewebsites.net). Atualmente atuo em projetos academicos atuando como desenvolvedor Fron-end porém mantenho estudos nas areas de machine learning e segurança da informação assim como artificios de front-end como HTML, CSS, typescript, Reactjs, nodejs, etc.
+Meu nome é Lucas Hiroaki Okazaki tenho 21 anos, sou formado em desing gráfico e eletroeletronica e atualmente estou cursando analise e desenvolvimento de sistemas na [FATEC](https://fatecsjc-prd.azurewebsites.net). Atualmente atuo em projetos academicos atuando como desenvolvedor Fron-end porém mantenho estudos nas areas de machine learning e segurança da informação assim como artificios de front-end como HTML, CSS, typescript, Reactjs, nodejs, etc.
 
 <img src="https://user-images.githubusercontent.com/56441428/167714104-23120df4-0ad6-4673-93fa-e98e46f93528.jpg"
  width= 200/>
